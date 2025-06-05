@@ -137,10 +137,6 @@ main a:hover {
     background-color: var(--cor2);
 }
 
-main a:visited {
-    background-color: black;
-}
-
 main img {
     width:100%;
 }
